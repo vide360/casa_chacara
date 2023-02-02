@@ -1,0 +1,66 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_0390A6F5_1190_CFC8_419A_5B0E6740992A.source = https://wa.me/5583999358993
+LinkBehaviour_033C3EDB_1191_DFF8_4171_652598B839D3.source = https://wa.me/5583999358993
+LinkBehaviour_033EDEDA_1191_DFF8_41B0_F60A4AACBAF2.source = https://wa.me/5583999970271
+LinkBehaviour_038AE6AC_1190_CE59_41A2_E6DB63AE10AE.source = https://wa.me/5583999970271
+LinkBehaviour_0251957C_1190_42B9_41A2_74E11CF90B8D.source = https://www.vide360.com.br/escritorio_virtual_vd360/
+
+## Media
+
+### Audio
+audiores_12558BA7_0F4E_3EA5_4199_81446BF4F940.mp3Url = media/audio_12AE8103_0F4E_6B5D_4164_CA6140696219_pt.mp3
+
+### Title
+panorama_005B173A_0FD6_57AC_416B_79AA5E09F419.label = Closet suite 03
+panorama_005B0A99_0FD6_796C_41A1_7FF4F28AC5F3.label = Closet suite master
+panorama_005B73D1_0FD6_2EFD_41A9_C97367D312C8.label = Corredor 1 andar
+panorama_005B608E_0FD6_2964_419B_11532280BA86.label = Cozinha
+panorama_005B0C5C_0FD7_D9EB_4193_D6E2B82F140B.label = Entrada
+panorama_005B0A6B_0FD7_F9AC_4190_265054B35510.label = Frente porta
+panorama_005B075D_0FD7_D7E5_41AB_B6708FDBD1AD.label = Frente rua
+panorama_005931EA_0FD6_2AAF_4175_BA22E5765BB7.label = Garagem
+panorama_1873754E_0F52_6BE7_41A4_820D1F994D26.label = Piscina
+panorama_00597C08_0FD6_796B_41A6_640251A3E912.label = Sl 02
+panorama_005978FB_0FD6_5AAD_419C_94D806BE77BC.label = Sl escada
+panorama_005925D3_0FD6_2AFD_416F_66D603DDC143.label = Sl lareira
+panorama_00593D75_0FD6_FBA4_41A1_0DBDF3BAF0DB.label = Suite 02
+panorama_0059F95E_0FD6_DBE4_41A8_145AEB4D287C.label = Suíte 01
+panorama_0059527F_0FD6_29A5_41AD_A3C65AB40740.label = Suíte 03
+panorama_0059F59D_0FD6_2B65_41AE_1B32080E8F5D.label = Suíte master
+panorama_0059022C_0FD6_29AB_41A0_A2EB0C801537.label = Sótão 1
+panorama_0059E05F_0FD6_E9E5_4199_78B8E161D2E2.label = Sótão 2
+panorama_00596C5E_0FD6_79E4_41A9_7095550B9461.label = Varanda Início
+panorama_005AD55F_0FD6_2BE4_41A5_221BF6BF6762.label = Varanda frente
+panorama_00591953_0FD6_5BFC_41AA_13F1C7054C83.label = Varanda suíte 01
+panorama_00584888_0FD6_D96C_4180_44AEAA92E662.label = Wc suite 02
+panorama_005BD4ED_0FD6_2AA5_4180_67E32DC6DA7F.label = Wc suite master
+panorama_005B0DF9_0FD6_5AAD_419D_3BF2DD824989.label = Wc suíte 01
+panorama_005B1134_0FD6_2BA4_41AB_EE80728F93DA.label = Wc suíte 03
+panorama_0058DFEE_0FD6_56A7_4194_B3D6E25500D0.label = varanda frente 2
+panorama_1FF82ACA_0FD6_FEEF_419F_CA705BB4289D.label = Área serviço
+
+## Right Click Menu
+
+### Text
+menuItem_0208BAFF_1191_C7B7_415B_D1B89729D395.label = Criado pela Vide360
+
+## Skin
+
+### Image
+Image_0084C222_11F1_C648_419D_3DF5652E7BB8_mobile.url = skin/Image_0084C222_11F1_C648_419D_3DF5652E7BB8_mobile_pt.png
+Image_0084C222_11F1_C648_419D_3DF5652E7BB8.url = skin/Image_0084C222_11F1_C648_419D_3DF5652E7BB8_pt.png
+Image_038FA386_1190_4649_4187_F62B722895E7_mobile.url = skin/Image_038FA386_1190_4649_4187_F62B722895E7_mobile_pt.png
+Image_038FA386_1190_4649_4187_F62B722895E7.url = skin/Image_038FA386_1190_4649_4187_F62B722895E7_pt.png
+Image_1F4EA00C_1190_4258_41A6_4CECF87D4F4D_mobile.url = skin/Image_1F4EA00C_1190_4258_41A6_4CECF87D4F4D_mobile_pt.png
+Image_1F4EA00C_1190_4258_41A6_4CECF87D4F4D.url = skin/Image_1F4EA00C_1190_4258_41A6_4CECF87D4F4D_pt.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Casa Chácara
